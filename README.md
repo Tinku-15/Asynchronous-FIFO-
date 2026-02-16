@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/project_banner.svg" width="100%">
+</p>
+
 # Asynchronous-FIFO-
 Dual-clock asynchronous FIFO in Verilog with CDC-safe Gray pointers, testbench, and Vivado auto-setup
 # Dual Clock Asynchronous FIFO (Verilog)
